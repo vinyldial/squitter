@@ -1,0 +1,27 @@
+/*Your profile/Their profile full size top left*/
+img.ProfileAvatar-image {
+      border-radius: 10px !important;
+}
+
+.edge-design .ProfileAvatar {
+    border-radius: 10px !important;
+}
+
+/*Full size avatars*/
+.edge-design .Gallery.is-tweetless .Gallery-media {
+    border-radius: 6px !important;
+}
+
+/*Small avatars*/
+.edge-design .avatar {
+    border-radius: 5px !important;
+}
+
+img.Avatar.Avatar--size48 {
+    border-radius: 5px !important;
+}
+
+/*Dashboard*/
+img.DashboardProfileCard-avatarImage.js-action-profile-avatar {
+    border-radius: 5px !important;
+}
