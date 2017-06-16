@@ -4,6 +4,10 @@
   "description": "A Chrome extension to restore square avatars on Twitter",
   "version": "0.0.1",
 
+  "icons": {
+          "128": "squitter-icon.png"
+        },
+
   "content_scripts": [
     {
       "matches": ["https://twitter.com/*"],
