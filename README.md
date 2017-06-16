@@ -2,6 +2,8 @@
 
 A simple Chrome extension to re-enable square avatars on Twitter.
 
+https://chrome.google.com/webstore/detail/squitter/lancdbikjchhakabignegmancjccfkcc
+
 # v-0.0.1 Features
 
   - Main page avatars are square
