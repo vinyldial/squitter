@@ -75,3 +75,8 @@ img.ProfileCard-avatarImage.js-action-profile-avatar {
 input#search-query {
     border-radius: 4px !important;
 }
+
+/*DM text input border*/
+.DMComposer-container.u-borderUserColorLighter {
+    border-radius: 5px !important;
+}

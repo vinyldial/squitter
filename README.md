@@ -4,6 +4,9 @@ A simple Chrome extension to re-enable square avatars on Twitter.
 
 https://chrome.google.com/webstore/detail/squitter/lancdbikjchhakabignegmancjccfkcc
 
+# v-0.0.3 Features
+  - Fixed border bug in DM chat window
+
 # v-0.0.2 Features
   - Buttons are square
   - Mini avatar on scroll down is square
