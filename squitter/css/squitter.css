@@ -53,25 +53,25 @@ img.ProfileCard-avatarImage.js-action-profile-avatar {
 /*~~~Other page elements aside from avatars~~~*/
 /*Buttons*/
 .EdgeButton, .EdgeButton:visited {
-    border-radius: 5px !important;
+    border-radius: 4px !important;
   }
 
 /*Tweet box full*/
 .RichEditor-scrollContainer.u-borderRadiusInherit {
-    border-radius: 5px !important;
+    border-radius: 4px !important;
 }
 
 /*Tweet box min*/
 .RichEditor.RichEditor--emojiPicker {
-    border-radius: 5px !important;
+    border-radius: 4px !important;
 }
 
 /*Tweet box border*/
 .RichEditor.RichEditor--emojiPicker.is-fakeFocus {
-    border-radius: 5px !important;
+    border-radius: 4px !important;
 }
 
 /*Search bar*/
 input#search-query {
-    border-radius: 5px !important;
+    border-radius: 4px !important;
 }
