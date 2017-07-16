@@ -6,6 +6,7 @@ https://chrome.google.com/webstore/detail/squitter/lancdbikjchhakabignegmancjccf
 
 # v-0.1.0 Features
   - Bug fix: circular avatars were showing when viewing a full sized avatar
+  - Hover avatars are square
 
 # v-0.0.3 Features
   - Fixed border bug in DM chat window
@@ -21,5 +22,4 @@ https://chrome.google.com/webstore/detail/squitter/lancdbikjchhakabignegmancjccf
   - Dashboard avatars are square
 
 # To do
-  - Make hover avatars square
   - Investigate any other UI elements that can be tweaked
