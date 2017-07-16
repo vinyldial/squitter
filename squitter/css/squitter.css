@@ -8,8 +8,8 @@ img.ProfileAvatar-image {
 }
 
 /*Full size avatars*/
-.edge-design .Gallery.is-tweetless .Gallery-media {
-    border-radius: 6px !important;
+.Gallery.without-tweet .Gallery-media {
+    border-radius: 10px !important;
 }
 
 /*Small avatars*/
