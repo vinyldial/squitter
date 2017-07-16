@@ -1,8 +1,11 @@
 # Squitter
 
-A simple Chrome extension to re-enable square avatars on Twitter.
+A simple Chrome extension to re-enable square avatars and UI elements on Twitter.
 
 https://chrome.google.com/webstore/detail/squitter/lancdbikjchhakabignegmancjccfkcc
+
+# v-0.1.0 Features
+  - Bug fix: circular avatars were showing when viewing a full sized avatar
 
 # v-0.0.3 Features
   - Fixed border bug in DM chat window
