@@ -3,7 +3,7 @@ img.ProfileAvatar-image {
       border-radius: 10px !important;
 }
 
-.edge-design .ProfileAvatar {
+.ProfileAvatar {
     border-radius: 10px !important;
 }
 
@@ -13,10 +13,15 @@ img.ProfileAvatar-image {
 }
 
 /*Small avatars*/
-.edge-design .avatar {
+.avatar {
     border-radius: 4px !important;
 }
 
+img.avatar.size24 {
+    border-radius: 3px !important;
+}
+
+/*Followers you know*/
 img.Avatar.Avatar--size48 {
     border-radius: 4px !important;
 }

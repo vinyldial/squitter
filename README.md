@@ -4,6 +4,12 @@ A simple Chrome extension to re-enable square avatars and UI elements on Twitter
 
 https://chrome.google.com/webstore/detail/squitter/lancdbikjchhakabignegmancjccfkcc
 
+# v-0.1.1 Features
+  - 🐛 Bug: Prevent full profile avatar border appearing as a circle
+  - 🐞 Bug: Prevent avatars in stream appearing as circles
+  - 🐜 Bug: Prevent avatars when opening tweets appearing as circles
+  - 🕷 Bug: Prevent "Followers you know" avatars appearing as circles
+
 # v-0.1.0 Features
   - Bug fix: circular avatars were showing when viewing a full sized avatar
   - Hover avatars are square
